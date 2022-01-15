@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aniket-ahir
-- 👀 I’m interested in basic softweare development.
+- 👀 I’m interested in basic software development.
 - 🌱 I’m currently learning Python programming language and it's libraries. 
 - 💞️ I’m looking to collaborate on simple python based programs and software for practice.
 - 📫 e-mail: aniketahir120@gmail.com, Whatsapp: +91-82004-71849
